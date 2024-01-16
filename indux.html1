@@ -1,0 +1,128 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Document</title>
+</head>
+<body>
+  <img src="./New img.jpeg" height="50%" width="50%">
+
+    <h1>Furqan</h1>
+    <p>I am doing works on wp</p>
+    <h2>saad</h2>
+    <p>He done his LLB</p>
+    <h3>Ansar</h3>
+   <p>He is doing Masters</p>
+   <h4>Faizan</h4>
+   <p>He done his BS.CS</p>
+   <h5>Zahira</h5>
+   <p>She is doing her job in teaching feild</p>
+   <h6>Maham</h6>
+   <p>She done her B.A</p> 
+   
+   <iframe width="560" height="315" src="https://www.youtube.com/embed/cTDoRxeAQck?si=1bwiDBTK0I6YW0m8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+  <br><br>
+   <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3402.7605317149964!2d74.33999170901556!3d31.47577294924041!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3919042715f767ad%3A0xb0251034ce47145e!2sARFA%20Tower%2C%20Lahore%20%E2%80%93%20Kasur%20Rd%2C%20Nishtar%20Town%2C%20Lahore%2C%20Punjab%2C%20Pakistan!5e0!3m2!1sen!2s!4v1704088576263!5m2!1sen!2s" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+  <br><br>
+   <table border="2px">
+    <tr>
+      <th>Roll no</th>
+      <th>Name</th>
+      <th>Class</th>
+    </tr>
+    <tr>
+      <td>2</td>
+      <td>Ali</td>
+      <td>4th</td>
+    </tr>
+    <tr>
+      <td>1</td>
+      <td>Raza</td>
+      <td>5th</td>
+    </tr>
+    <tr>
+      <td>3</td>
+      <td>Hassan</td>
+      <td>9th</td>
+    </tr>
+    <tr>
+      <td>6</td>
+      <td>Hamid</td>
+      <td>10th</td>
+    </tr>
+   </table>
+   <a href="./Google.com/" src="./button image.jpeg"></a>
+   <br><br>
+   
+   <input type="password" name="password" id="101">
+   <br><br>
+   <input type="button" value="click Me!">
+   <br><br>
+   <input type="button" value="follow">
+   <br><br>
+   <input type="checkbox" name="city" id="102">Computer Science
+   <br><br>
+   <input type="color" name="color" id="103">
+   <br><br>
+   <input type="date" name="dateinput" id="dateinput">
+   <br><br>
+   <input type="time" name="time" id="time">
+   <br><br>
+   <input type="datetime-local" name="datetime-local" id="datetime-local">
+   <br><br>
+   <input type="email" name="email" id="email">
+   <br><br>
+   <input type="file" name="file" id="file">
+   <br><br>
+   <input type="hidden" name="hidden">
+   <br><br>
+   <input type="image" src="./button image.jpeg" width="100px" height="100px" alt="https://www.google.com/">
+   <br><br>
+   <input type="month" name="month" id="103">
+   <br><br>
+   <input type="number" name="number" id="number">
+   <br><br>
+   <input type="radio" name="radio" id="105">
+   <br><br>
+   <input type="range" name="range" id="range">
+   <br><br>
+   <input type="reset" value="reset">
+   <br><br>
+   <input type="search" name="search" id="search">
+   <br><br>
+   <input type="submit" value="submit">
+   <br><br>
+   <input type="tel" name="tel" id="tel" placeholder="Enter your phone number">
+   <br><br>
+   <input type="text" name="text" id="text">
+   <br><br>
+   <input type="time" name="time" id="time">
+   <br><br>
+   <input type="url" name="url" id="url">
+   <br><br>
+   <input type="week" name="week" id="week">  
+   <br><br>
+   <label for="fn">First Name</label>
+  <input type="text" name="fn" placeholder="Enter your first name">
+  <br><br>
+  <label for="ln">Last Name</label>
+  <input type="text" name="ln" placeholder="Enter your Last name">
+  <br><br>
+  <label for="email">Email</label>
+  <input type="email" name="Email" placeholder="Enter your email">
+  <br><br>
+  <label for="pw">Password</label>
+<input type="password" name="pw" placeholder="Enter your password">
+<br><br>
+<select name="country">
+<option value="Pak">Pakistan</option>
+<option value="USA">United State America</option>
+<option value="UK">United Kingdom</option>
+<option value="UAE">United Arab Emarates</option>
+</select>
+<br><br>
+<button type="submit">Signup</button>
+
+</body>
+</html>

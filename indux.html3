@@ -1,0 +1,167 @@
+
+<input type="password" name="password" id="101">
+<br><br>
+<input type="button" value="click Me!">
+<br><br>
+<input type="button" value="follow">
+<br><br>
+<input type="checkbox" name="city" id="102">Computer Science
+<br><br>
+<input type="color" name="color" id="103">
+<br><br>
+<input type="date" name="dateinput" id="dateinput">
+<br><br>
+<input type="time" name="time" id="time">
+<br><br>
+<input type="datetime-local" name="datetime-local" id="datetime-local">
+<br><br>
+<input type="email" name="email" id="email">
+<br><br>
+<input type="file" name="file" id="file">
+<br><br>
+<input type="hidden" name="hidden">
+<br><br>
+<input type="image" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTyMRhyPO6HLM8DhPcw6rHAfoNR5Pnge-RB5Q&usqp=CAU" alt="vs code">
+<br><br>
+<input type="month" name="month" id="103">
+<br><br>
+<input type="number" name="number" id="number">
+<br><br>
+<input type="radio" name="radio" id="105">
+<br><br>
+<input type="range" name="range" id="range">
+<br><br>
+<input type="reset" value="reset">
+<br><br>
+<input type="search" name="search" id="search">
+<br><br>
+<input type="submit" value="submit">
+<br><br>
+<input type="tel" name="tel" id="tel">
+<br><br>
+<input type="text" name="text" id="text">
+<br><br>
+<input type="time" name="time" id="time">
+<br><br>
+<input type="url" name="url" id="url">
+<br><br>
+<input type="week" name="week" id="week">
+
+
+
+
+
+
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Assignment</title>
+</head>
+<body>
+    <img src="./New img.jpeg" height="50%" width="50%">
+
+    <h1>Furqan</h1>
+    <p>I am doing works on wp</p>
+    <h2>saad</h2>
+    <p>He done his LLB</p>
+    <h3>Ansar</h3>
+   <p>He is doing Masters</p>
+   <h4>Faizan</h4>
+   <p>He done his BS.CS</p>
+   <h5>Zahira</h5>
+   <p>She is doing her job in teaching feild</p>
+   <h6>Maham</h6>
+   <p>She done her B.A</p> 
+
+   
+<input type="password" name="password" id="101">
+<br><br>
+<input type="button" value="click Me!">
+<br><br>
+<input type="button" value="follow">
+<br><br>
+<input type="checkbox" name="city" id="102">Computer Science
+<br><br>
+<input type="color" name="color" id="103">
+<br><br>
+<input type="date" name="dateinput" id="dateinput">
+<br><br>
+<input type="time" name="time" id="time">
+<br><br>
+<input type="datetime-local" name="datetime-local" id="datetime-local">
+<br><br>
+<input type="email" name="email" id="email">
+<br><br>
+<input type="file" name="file" id="file">
+<br><br>
+<input type="hidden" name="hidden">
+<br><br>
+<input type="image" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTyMRhyPO6HLM8DhPcw6rHAfoNR5Pnge-RB5Q&usqp=CAU" alt="vs code">
+<br><br>
+<input type="month" name="month" id="103">
+<br><br>
+<input type="number" name="number" id="number">
+<br><br>
+<input type="radio" name="radio" id="105">
+<br><br>
+<input type="range" name="range" id="range">
+<br><br>
+<input type="reset" value="reset">
+<br><br>
+<input type="search" name="search" id="search">
+<br><br>
+<input type="submit" value="submit">
+<br><br>
+<input type="tel" name="tel" id="tel">
+<br><br>
+<input type="text" name="text" id="text">
+<br><br>
+<input type="time" name="time" id="time">
+<br><br>
+<input type="url" name="url" id="url">
+<br><br>
+<input type="week" name="week" id="week">
+
+
+    <h1>Forms</h1>
+    <form>
+     <label for="fn">first Name</label>
+     <input type="text" name="fn" placeholder="Enter your first name" >
+     <label for="ln">Last Name</label>
+     <input type="text" name="ln" placeholder="Enter your Last name" >
+     <br><br>
+    <label for="email">Email</label>
+    <input type="email" name="email" placeholder="Enter your email"  required>
+    <br><br>
+    <label for="password">password</label>
+    <input type="password" name="password" placeholder="Enter your password" maxlength="5">
+    <br><br>
+    <select name="country" >
+      <option value="Pak">pakistan</option>
+      <option value="USA">United state America</option>
+      <option value="UK" selected>United Kingdom</option>
+      <option value="UAE">United Arab Emarate</option>
+      <option value="India">india</option>
+    </select>
+    <br><br>
+    <label for="gender">Male</label>
+    <input type="radio" name="gender" value="male">
+    <label for="gender">FE-Male</label>
+    <input type="radio" name="gender" value="female">
+    <br><br>
+    <label for="read">Read carefully</label>
+    <input type="checkbox" name="read"> i 've read carefully submit this form
+    <br><br>
+    <input type="file" name="" id="">
+    <br><br>
+    <button type="submit">Signup</button>
+    
+    
+    
+    </form>
+
+</body>
+</html>
